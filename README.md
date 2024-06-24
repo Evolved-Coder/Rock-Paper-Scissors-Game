@@ -2,8 +2,6 @@
 
 Welcome to my Rock-Paper-Scissors game! This is a simple player vs computer game implemented using HTML, CSS, and JavaScript.
 
-## Demo
-You can play the game [here](https://Evolved-Coder.github.io/rock-paper-scissors).
 
 ## Features
 - **Interactive Gameplay:** Play against the computer in a fun and engaging way.
